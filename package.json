@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-is-mobile",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -33,7 +33,9 @@
   },
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-cli-is-mobile",
+    "is-mobile"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
